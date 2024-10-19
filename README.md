@@ -12,7 +12,7 @@ This is a simple rule engine application that uses an Abstract Syntax Tree (AST)
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/rule_engine.git
+    git clone https://github.com/BharathK0/Rule-Engine-with-AST.git
     cd rule_engine
     ```
 
